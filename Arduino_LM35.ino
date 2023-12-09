@@ -1,3 +1,5 @@
+// elapsedMillis library needs to be installed
+// .ZIP file downloaded from https://www.arduino.cc/reference/en/libraries/elapsedmillis/
 #include <elapsedMillis.h>
 
 // Define the LM35 temperature sensor pin
